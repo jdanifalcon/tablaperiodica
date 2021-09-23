@@ -15,9 +15,15 @@ Tema: Desarrollo de una Base de datos
           Image
       }
 3.- Se debe de desarrollar el backend, usando nodejs y postgreSQL.
-    1.- Alta de todo lo necesario
-    2.- Traer la información de la tabla
-    3.- Traer la información de 1 o N elementos
-    4.- Editar
-    5.- Eliminar
-    6.- Traer los elementos ordenados por diferentes formas
+    
+   1.- Alta de todo lo necesario
+    
+   2.- Traer la información de la tabla
+    
+   3.- Traer la información de 1 o N elementos
+    
+   4.- Editar
+    
+   5.- Eliminar
+    
+   6.- Traer los elementos ordenados por diferentes formas
