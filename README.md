@@ -1,7 +1,8 @@
 # Proyecto Base de Datos - Tabla Periodica
 Tema: Desarrollo de una Base de datos
 # Pasos a resolver
-Crear un repositorio en GitHub
+   # Crear un repositorio en GitHub
+
     A.- Modelar en pseudocódigo o diagrama:
     1.- Algoritmo para ordenar de diferentes formas los elementos
     2.- Se debe de modelar la base de datos tomando en cuenta:
