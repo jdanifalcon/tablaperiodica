@@ -1,6 +1,8 @@
 # Proyecto Base de Datos - Tabla Periodica
 Tema: Desarrollo de una Base de datos
 
+![alt text](https://raw.githubusercontent.com/jdanifalcon/tablaperiodica/main/diagrama/imagenes/tabla-periodica.png)
+
 Hackademy-Hackwomen
 Future Developers: Aprende a programar desde cero
 
